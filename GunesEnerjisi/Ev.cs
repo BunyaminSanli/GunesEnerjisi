@@ -15,11 +15,6 @@ namespace GunesEnerjisi
             return evSicaklik;
         }
 
-        public void SetEvSicaklik(int value)
-        { 
-            evSicaklik = value;
-        }
-
 
         private int istenenEvSicaklik;
 

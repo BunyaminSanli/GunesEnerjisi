@@ -15,7 +15,7 @@ namespace GunesEnerjisi
         }
 
 
-        private int sicaklik = 28;
+        private int sicaklik = 38;
 
         public int GetSicaklik()
         {

@@ -8,6 +8,6 @@ namespace GunesEnerjisi
 {
     interface IKaynak
     {
-        int Calistir(int a);
+        int Calistir(int istenenSicaklik);
     }
 }

@@ -27,10 +27,7 @@ namespace GunesEnerjisi
             return suSicaklik;
         }
 
-        public void SetSuSicaklik(int value)
-        { 
-            suSicaklik = value;
-        }
+        
 
         
     }

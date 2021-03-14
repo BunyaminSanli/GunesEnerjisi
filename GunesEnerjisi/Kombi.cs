@@ -8,10 +8,8 @@ namespace GunesEnerjisi
 {
     class Kombi : IKaynak
     {
-        
-        public int Calistir(int istenenSicaklik)
+        public int Calistir(int sicaklik)
         {
-            int sicaklik = istenenSicaklik;
             return sicaklik;
         }
     }
